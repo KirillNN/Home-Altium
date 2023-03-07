@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=12V Pin=-1
+Removed Pin From Net: NetName=GND Pin=-2
+Removed Pin From Net: NetName=CH_R Pin=-3
+Removed Pin From Net: NetName=CH_G Pin=-9
+Removed Pin From Net: NetName=CH_B Pin=-12
+Added Component: Designator=DA1(ESP32-WROOM-DEVKIT-30pin)
+Added Pin To Net: NetName=12V Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=CH_R Pin=DA1-3
+Added Pin To Net: NetName=CH_G Pin=DA1-9
+Added Pin To Net: NetName=CH_B Pin=DA1-12
+Added Pin To Net: NetName=GND Pin=DA1-17
+Added Member To Class: ClassName=RGB_01 Member=Component DA1 ESP32-WROOM-DEVKIT-30pinArduino

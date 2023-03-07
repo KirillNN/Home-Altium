@@ -1,0 +1,186 @@
+Added Component: Designator=R1(Chip_Resistor_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов К.О."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "02.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Резистор ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка номинал"; Value = "Резистор 0805 1 кОм 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мanufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность (Вт)"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ом"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отечественный аналог"; Value = "Р1-8В-0,125-1 кОм±5%-М-А-М"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "1 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление (для схемы)"; Value = "1 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "СП ПЭ"; Value = "ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Япония"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип резистора"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Chip_Resistor_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов К.О."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "02.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Резистор ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка номинал"; Value = "Резистор 0805 1 кОм 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мanufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность (Вт)"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ом"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отечественный аналог"; Value = "Р1-8В-0,125-1 кОм±5%-М-А-М"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "1 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление (для схемы)"; Value = "1 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "СП ПЭ"; Value = "ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Япония"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип резистора"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Chip_Resistor_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов К.О."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "02.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Резистор ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка номинал"; Value = "Резистор 0805 1 кОм 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мanufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность (Вт)"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ом"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отечественный аналог"; Value = "Р1-8В-0,125-1 кОм±5%-М-А-М"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "1 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление (для схемы)"; Value = "1 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "СП ПЭ"; Value = "ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Япония"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип резистора"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Chip_Resistor_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов К.О."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "02.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Резистор ERJ-6GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка номинал"; Value = "Резистор 0805 10 кОм 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мanufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность (Вт)"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ом"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отечественный аналог"; Value = "Р1-8В-0,125-10 кОм±5%-М-А-М"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление (для схемы)"; Value = "10 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "СП ПЭ"; Value = "ERJ-6GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Япония"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип резистора"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Chip_Resistor_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов К.О."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "02.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Резистор ERJ-6GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка номинал"; Value = "Резистор 0805 10 кОм 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мanufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность (Вт)"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ом"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отечественный аналог"; Value = "Р1-8В-0,125-10 кОм±5%-М-А-М"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление (для схемы)"; Value = "10 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "СП ПЭ"; Value = "ERJ-6GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Япония"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип резистора"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Chip_Resistor_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов К.О."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "02.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Резистор ERJ-6GEYJ101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка номинал"; Value = "Резистор 0805 100 Ом 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мanufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность (Вт)"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ом"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отечественный аналог"; Value = "Р1-8В-0,125-100 Ом±5%-Т-А-М"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "100 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление (для схемы)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "СП ПЭ"; Value = "ERJ-6GEYJ101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Япония"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип резистора"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Chip_Resistor_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов К.О."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "02.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Резистор ERJ-6GEYJ101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка номинал"; Value = "Резистор 0805 100 Ом 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мanufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность (Вт)"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ом"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отечественный аналог"; Value = "Р1-8В-0,125-100 Ом±5%-Т-А-М"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "100 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление (для схемы)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "СП ПЭ"; Value = "ERJ-6GEYJ101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Япония"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип резистора"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(2Т3130_(КТ-46))
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "14.10.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "АРСЕНАЛ "КРЗПП""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2Т3130А9/ПК"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Транзистор 2Т3130А9/ПК АЕЯР.432140.259ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Категория"; Value = "Транзистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Россия"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТУ"; Value = "АЕЯР.432140.259ТУ"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(2Т3130_(КТ-46))
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "14.10.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "АРСЕНАЛ "КРЗПП""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2Т3130А9/ПК"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Транзистор 2Т3130А9/ПК АЕЯР.432140.259ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Категория"; Value = "Транзистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Россия"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТУ"; Value = "АЕЯР.432140.259ТУ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CH_R Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=CH_G Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=CH_B Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=12V Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=12V Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR5_2 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR2_2 Pin=VT2-1
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=NetR5_2 Pin=VT2-3
+Added Pin To Net: NetName=NetR3_2 Pin=VT3-1
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=NetR6_2 Pin=VT3-3
+Added Member To Class: ClassName=RGB_01 Member=Component R1 0805 1 кОм 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R2 0805 1 кОм 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R3 0805 1 кОм 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R5 0805 10 кОм 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R6 0805 10 кОм 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R8 0805 100 Ом 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R9 0805 100 Ом 5%
+Added Member To Class: ClassName=RGB_01 Member=Component VT2 2Т3130А9/ПК
+Added Member To Class: ClassName=RGB_01 Member=Component VT3 2Т3130А9/ПК

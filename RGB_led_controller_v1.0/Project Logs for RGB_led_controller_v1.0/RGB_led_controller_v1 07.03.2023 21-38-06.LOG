@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=CH_R Pin=VT1-1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Added Component: Designator=R1(Chip_Resistor_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Смирнов К.О."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "02.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmax"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tmin"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка Part Number"; Value = "Резистор ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Для списка номинал"; Value = "Резистор 0805 1 кОм 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мanufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность (Вт)"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ом"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отечественный аналог"; Value = "Р1-8В-0,125-1 кОм±5%-М-А-М"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "1 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление (для схемы)"; Value = "1 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "СП ПЭ"; Value = "ERJ-6GEYJ102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Страна"; Value = "Япония"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип резистора"; Value = "0805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CH_R Pin=R1-1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=VT1-1
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=RGB_01 Member=Component R3 0805 100 Ом 5%

@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=VT1 NewDesignator=VT3
+Change Component Designator: OldDesignator=VT4 NewDesignator=VT6
+Added Pin To Net: NetName=CH_B Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=12V Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR3_2 Pin=VT3-1
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=NetR6_2 Pin=VT3-3
+Added Pin To Net: NetName=GND Pin=VT6-1
+Added Pin To Net: NetName=GND Pin=VT6-2
+Added Pin To Net: NetName=GND Pin=VT6-3
+Added Pin To Net: NetName=NetR9_2 Pin=VT6-4
+Added Pin To Net: NetName=B Pin=VT6-5
+Added Pin To Net: NetName=B Pin=VT6-6
+Added Pin To Net: NetName=B Pin=VT6-7
+Added Pin To Net: NetName=B Pin=VT6-8
+Added Member To Class: ClassName=RGB_01 Member=Component R1 0805 1 ÍŒÏ 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R3 0805 1 ÍŒÏ 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R4 0805 10 ÍŒÏ 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R6 0805 10 ÍŒÏ 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R7 0805 100 ŒÏ 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R9 0805 100 ŒÏ 5%
+Added Member To Class: ClassName=RGB_01 Member=Component VT1 2“3130¿9/œ 
+Added Member To Class: ClassName=RGB_01 Member=Component VT3 2“3130¿9/œ 
+Added Member To Class: ClassName=RGB_01 Member=Component VT4 IRF8707
+Added Member To Class: ClassName=RGB_01 Member=Component VT6 IRF8707

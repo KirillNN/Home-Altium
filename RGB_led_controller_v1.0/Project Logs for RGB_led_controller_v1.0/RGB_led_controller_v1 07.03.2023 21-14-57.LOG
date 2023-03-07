@@ -1,0 +1,5 @@
+Added Component: Designator=DA1(ESP32-WROOM-DEVKIT-30pin)
+Added Pin To Net: NetName=12V Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Member To Class: ClassName=RGB_01 Member=Component DA1 ESP32-WROOM-DEVKIT-30pinArduino
+Added Member To Class: ClassName=RGB_01 Member=Component XS1 KLS2-128I-5.00-03P-4S

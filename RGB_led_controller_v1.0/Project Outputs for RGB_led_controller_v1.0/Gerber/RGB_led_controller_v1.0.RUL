@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Notebook2\Documents\Home Altium\RGB_led_controller_v1.0\RGB_led_controller_v1.0.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

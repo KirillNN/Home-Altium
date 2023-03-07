@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator= NewDesignator=DA1
+Added Pin To Net: NetName=GND Pin=DA1-17
+Added Member To Class: ClassName=RGB_01 Member=Component DA1 ESP32-WROOM-DEVKIT-30pinArduino

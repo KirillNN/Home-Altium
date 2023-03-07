@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CH_B Pin=DA1-5
+Added Pin To Net: NetName=CH_B Pin=DA1-12
+Added Member To Class: ClassName=RGB_01 Member=Component R1 0805 1 êÎì 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R4 0805 10 êÎì 5%
+Added Member To Class: ClassName=RGB_01 Member=Component R7 0805 100 Îì 5%
+Added Member To Class: ClassName=RGB_01 Member=Component VT1 2Ò3130À9/ÏÊ
+Added Member To Class: ClassName=RGB_01 Member=Component VT4 IRF8707
