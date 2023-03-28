@@ -60,6 +60,23 @@ GenerateClassCluster=0
 DocumentUniqueId=QQUUHAUU
 
 [Document2]
+DocumentPath=RGB_led_controller_v2.0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QQUUHAUU
+
+[Document3]
 DocumentPath=RGB_01.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -76,7 +93,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJCVRXTB
 
-[Document3]
+[Document4]
 DocumentPath=RGB_02.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -93,7 +110,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFIPVDEJ
 
-[Document4]
+[Document5]
 DocumentPath=..\Smirnov.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -110,7 +127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFJEIFQP
 
-[Document5]
+[Document6]
 DocumentPath=..\Smirnov.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -127,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFWKYEHL
 
-[Document6]
+[Document7]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP LaserJet CP 1025nw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
